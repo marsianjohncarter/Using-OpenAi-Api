@@ -1,7 +1,7 @@
 import openai
 import time
 
-
+# Replace with your own key
 openai.api_key = 'sk-************************************************'
 
 messages = []
