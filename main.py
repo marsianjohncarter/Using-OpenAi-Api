@@ -6,7 +6,7 @@ openai.api_key = 'sk-************************************************'
 
 messages = []
 
-
+# This is a function that will print out the response of the LLM with a small delay between each letter. I don't know about you, but I like how it looks.
 def print_with_delay(text, delay):
     for letter in text:
         print(letter, end='', flush=True)
