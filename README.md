@@ -29,5 +29,5 @@ Now you can use `ChatGPT` in your terminal! Just copy or download the project fi
 ```python
 openai.api_key = 'sk-************************************************'
 ```
-with your own key. Happy coding!
+with your own key. Happy headache!
 
